@@ -1,26 +1,40 @@
-### Hey there, I'm Glory Praise! 👋
+### Hi, I'm HaN 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity_Expert-11%2B_Years-blue?style=for-the-badge&logo=icloud" alt="11+ Years in Cybersecurity">
-  <img src="https://img.shields.io/badge/GitHub_Rating-A%2B_Developer-brightgreen?style=for-the-badge&logo=github" alt="A+ Rated Developer">
-</p>
+A results-driven **A+ Rated Developer** and **Cybersecurity Professional** with over **11 years of experience** in software engineering and digital defense. I specialize in building high-performance, secure applications by leveraging a deep expertise in low-level systems and modern programming paradigms.
 
-I'm an A+ rated Software Developer and a seasoned Cybersecurity Professional with over **11 years of experience** in hardening digital fortresses. My passion lies at the intersection of crafting robust, efficient code and architecting impenetrable security solutions. I thrive on solving complex problems, from low-level system optimization to building secure, scalable applications.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🛡️ Professional Stats 
 
-#### 🛡️ My Tech Arsenal
+| Metric | Value |
+| :--- | :--- |
+| ⭐ **GitHub Grade** | **A+ Developer** |
+| 🕰️ **Experience** | **11+ Years in Cybersecurity** |
+| 💻 **Focus** | **Secure Systems Programming** |
+| ✨ **Total Stars** | **22** (from stats) |
+| 🚀 **Total Commits** | **248+** (from stats) |
+|  CONTRIBUTED TO | **4** (from stats) |
 
-My proficiency across a spectrum of languages allows me to tackle challenges from multiple angles:
+</td>
+<td width="50%" valign="top">
 
-| Category               | Languages                                       |
-| ---------------------- | ----------------------------------------------- |
-| **Systems & Performance** | `C++` `C` `Assembly` `Java` `Ruby`              |
-| **Scripting & Automation** | `Python` `Perl`                                 |
-| **Mobile & Modern Apps** | `Kotlin`                                        |
-| **Web Technologies** | `JavaScript` `HTML/CSS` `PHP` `TSQL`            |
+### 🛠️ Core Language Proficiency
 
-<br>
+* **C++**<br>
+    ![C++ Proficiency](https://progress-bar.dev/95/?title=Expert)
+* **Python**<br>
+    ![Python Proficiency](https://progress-bar.dev/90/?title=Expert)
+* **Java**<br>
+    ![Java Proficiency](https://progress-bar.dev/85/?title=Advanced)
+* **C & Assembly**<br>
+    ![C & Assembly Proficiency](https://progress-bar.dev/80/?title=Advanced)
+* **Kotlin**<br>
+    ![Kotlin Proficiency](https://progress-bar.dev/75/?title=Proficient)
+* **Ruby & Perl**<br>
+    ![Ruby & Perl Proficiency](https://progress-bar.dev/70/?title=Proficient)
 
-📫 **Let's Connect!** I'm always open to collaborating on innovative projects, especially those that push the boundaries of security and software engineering.
-
+</td>
+</tr>
+</table>
