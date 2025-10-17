@@ -1,4 +1,4 @@
-# 🛡️ [HaN]| $C+\text{b}$ Principle Cyber Engineer
+# 🛡️ [HaN] | $C+\text{b}$ Principle Cyber Engineer
 
 ## 💡 Ben Kimim
 
@@ -27,28 +27,27 @@ I love turning complex technical knowledge into practical robust solutions
 ## 💻 Technical Skills / Teknik Yetkinlikler
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     
-    <img src="https://img.shields.io/badge/C%2F%2FC++-A8B9CC?style=flat&logo=c&logoColor=black" alt="C/C++" />
+    <img src="https://img.shields.io/badge/C%2FC++-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C/C++" />
     
-    <img src="https://img.shields.io/badge/Assembly-6E4D8A?style=flat&logo=assemblyscript&logoColor=white" alt="Assembly" />
+    <img src="https://img.shields.io/badge/Assembly-6E4D8A?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
     
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
     
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" />
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
 </p>
 
 ---
 
-## 📈 GitHub İstatistikleri (Dinamik)
+## 🔍 Odak Alanlarım
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADINIZ]&show_icons=true&theme=dark&rank_icon=percentile&hide_title=true" alt="GitHub İstatistikleri" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADINIZ]&layout=compact&theme=dark&hide_title=true" alt="En Çok Kullanılan Diller" />
-</p>
+* Kırmızı Takım Operasyonları Zafiyet Araştırması Web Mobile Pentest
+* Zararlı Yazılım Analizi Reverse Engineering Adli Bilişim
+* Güvenli Kod Geliştirme $\text{SDLC}$ Güvenlik Entegrasyonu
+* Bulut Güvenliği $\text{IaC}$ ve $\text{DevSecOps}$ Pratikleri
 
 ---
 
@@ -68,4 +67,3 @@ I love turning complex technical knowledge into practical robust solutions
 <p align="center">
     <i>Güvenlik daima bir yolculuktur bir varış noktası değil</i>
 </p>
-
