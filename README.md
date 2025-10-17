@@ -52,7 +52,6 @@ Kernel seviyesinden uygulama katmanına kadar uzanan güçlü teknik altyapım
 ## 🔗 Bana Ulaşın
 
 <p align="center">
-    <a href="[LINKEDIN_PROFİL_URL'NİZİ_BURAYA_EKLEYİN]">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profili"/>
     </a>
     <a href="https://www.instagram.com/uxspai">
